@@ -1094,3 +1094,8 @@ section {
         font-size: 22px;
     }
 }
+
+.img-size{
+  width: 90%;
+  height: 0 auto;
+}
